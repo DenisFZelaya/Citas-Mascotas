@@ -1,3 +1,5 @@
+//5-12-20
+
 import React, { useState } from 'react';
 import { Text, StyleSheet, View, FlatList, TouchableHighlight, Platform, TouchableWithoutFeedback, Keyboard } from 'react-native';
 import Cita from './componentes/Cita';
